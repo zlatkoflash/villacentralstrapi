@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "another_singular_types",
+  "info": {
+    "singularName": "another-singular-type",
+    "pluralName": "another-singular-types",
+    "displayName": "Another Singular Type"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Example": {
+      "type": "string"
+    }
+  }
+}
