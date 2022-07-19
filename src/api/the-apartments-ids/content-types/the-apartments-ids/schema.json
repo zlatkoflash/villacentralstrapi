@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "the_apartments_idp",
+  "info": {
+    "singularName": "the-apartments-ids",
+    "pluralName": "the-apartments-idp",
+    "displayName": "The Apartments"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "rich_text": {
+      "type": "richtext"
+    }
+  }
+}

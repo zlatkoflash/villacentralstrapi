@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "arrivals",
+  "info": {
+    "singularName": "arrival",
+    "pluralName": "arrivals",
+    "displayName": "Arrival"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "slug": {
+      "type": "string"
+    }
+  }
+}
